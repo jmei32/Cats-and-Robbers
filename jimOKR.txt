@@ -1,0 +1,6 @@
+Jim mei
+
+Schedule and deliverable:
+	Generate target objects -- Wed by 12pm (estimate: 1hr)
+	Create script for score -- Wed by 6pm (estimate: 1hr)
+	Generate script for random generation -- TBA
