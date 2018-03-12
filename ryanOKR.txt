@@ -1,0 +1,6 @@
+Ryan Chan
+
+Schedule and deliverable:
+- Generate wall objects -- Wed by 11:59pm (estimate: 1hr)
+- Draft Menu UI -- Fri by 11:59pm (estimate: 3hr)
+- Draft basic scoring -- Fri by 11:39pm (estimate: 3hr)
